@@ -4,7 +4,9 @@
 Simple unit that shows temperature and a 0-5 volt controled by pot. The system can be polled by a modbus master or 'a' sent from a terminal program will give a response.  
 It works on either without a reboot.  
 
-![20260212_115151](https://github.com/user-attachments/assets/313af8c7-87f3-4519-999d-bae7d3c4647c)
+![20260212_115151](https://github.com/user-attachments/assets/313af8c7-87f3-4519-999d-bae7d3c4647c)  
+
+![20260212_133540](https://github.com/user-attachments/assets/c322b7e8-51cf-44be-868d-3278a505dfe6)
 
 structure:
 - project
