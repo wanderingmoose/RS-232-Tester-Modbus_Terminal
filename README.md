@@ -1,5 +1,9 @@
-# Test module for RS-232. Made it for Testing Cellular data modems
-SImple unit that shows temperature and a 0-5 volt controled by pot.
+# Test module for RS-232.  
+## Made it for Testing RS-232 ports on a Cellular data modem.  
+
+Simple unit that shows temperature and a 0-5 volt controled by pot. The system can be polled by a modbus master or 'a' sent from a terminal program will give a response.  
+It works on either without a reboot.  
+
 ![20260212_115151](https://github.com/user-attachments/assets/313af8c7-87f3-4519-999d-bae7d3c4647c)
 
 structure:
