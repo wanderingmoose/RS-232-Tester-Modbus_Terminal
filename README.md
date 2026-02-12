@@ -14,16 +14,17 @@ structure:
 
 #### What?
 
-Short--less than 150 words
+MSA 100
+Baud	9600
+Format	8N1
+There are a few static registers to best find the proper format for the modbus RTS floats.
 
 #### Why?
-
-Short--less than 150 words
+Needed something easy to test cellular data modems.
 
 #### [How?](docs/HOW.md)
-
-Short--less than 151 words
+Wrote stuff
 
 --
 
-Go on to provide all the additional info you would like.
+
