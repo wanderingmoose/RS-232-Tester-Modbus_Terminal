@@ -22,7 +22,7 @@ structure:
 MSA 100  
 Baud	9600  
 Format	8N1  
-There are a few static registers to best find the proper format for the modbus RTS floats.  
+There are a few static registers to best find the proper format for the modbus RTU floats.  
 
 <img width="202" height="199" alt="Terminal Screenshot" src="https://github.com/user-attachments/assets/63485d59-342f-428e-b9fb-1e6e13a01f50" />
 
