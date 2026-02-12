@@ -1,15 +1,16 @@
-# arduino-template
-A standardized structure for sharing physical projects ( I was shocked I could not find something like this on GitHub already)
+# Test module for RS-232. Made it for Testing Cellular data modems
+SImple unit that shows temperature and a 0-5 volt controled by pot.
 
 structure:
 - project
-	- all of the code needed to make it run
-- schematics
-	- the stuff that 
+	Arduino uno/Nano
+	RS-232 module
+	DS18B20
+	10k Pot
+  - schematics
+	See sketch
 - docs
-	- how to make it 
-- images
-	- arrays of digital pictures taken on a piece of silicon
+	See Sketch
 
 #### What?
 
